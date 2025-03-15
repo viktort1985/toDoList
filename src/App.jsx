@@ -4,7 +4,8 @@
 //  Можно также помечать дела сделанными, 
 // в этом случае их текст должен стать перечеркнутым. 
 // Можно также редактировать дела.
-// Something new
+// Added new branch
+// new feature
 
 import React from 'react';
 import './App.css';
